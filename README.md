@@ -10,10 +10,11 @@
 ## Documentation sur Inflorescences par Sabrina Ratté
 
 
-
+</br>
 
 **" Inflorescences se déroule dans un futur hypothétique, où plantes, champignons et créatures inconnues auront mutées pour vivre en symbiose avec des déchets électroniques. "** 
 
+</br>
 
 
 ## Auteurs
