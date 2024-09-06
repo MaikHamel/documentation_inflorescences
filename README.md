@@ -18,15 +18,21 @@
 
 ## Auteurs
 
-
-Inflorescences est une œuvre créé par Sabrina Raté avec l'aide de Roger Tellier Craig pour la composition sonore et Guillaume Arseneault pour l'intégration multimédia.
+Auteur: Sabrina Raté
+Composition sonore: Roger Tellier Craig
+Intégration multimédia: Guillaume Arseneault
 
 
 
 
 ## Création
 
-La version "container" a été diffusé à Montréal en 2024, mais la première version de cet œuvre à été exposé en Allemagne en 2023. La première œuvre à voyagé partout dans le monde et la version "container" à été préparé pour voyager vendredi le 30 août 2024.
+Version exposition (2023, New Now, Essen, Allemagne)
+
+
+Version "Container" (2024, Mutek, Montréal, Canada)
+
+
 
 
 ## Contexte de présentation
