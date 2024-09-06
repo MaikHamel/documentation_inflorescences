@@ -48,7 +48,7 @@ La version "container" a été diffusé à Montréal en 2024, mais la première 
 
 
 Inflorescences a été présenté pour la première fois au festival New Now, en Allemagne. Une deuxième édition de l'œuvre, présenté a Montréal pour le 25E anniversaire du festival de musique électronique, Mutek. </br> </br>
-![festival Mutek](https://medias.mutek.org/montreal/_1200x630_crop_center-center_82_none/ThumbnailORG.png?mtime=1710174308)(https://medias.mutek.org/montreal/_1200x630_crop_center-center_82_none/ThumbnailORG.png?mtime=1710174308)
+![festival Mutek](https://medias.mutek.org/montreal/_1200x630_crop_center-center_82_none/ThumbnailORG.png?mtime=1710174308)
 
 
 
@@ -58,13 +58,7 @@ Inflorescences a été présenté pour la première fois au festival New Now, en
 
 "Inflorescences" est une oeuvre visuelle et sonore représentant un monde futur où des plantes, créatures microscopiques ou bactéries ont mutées pour vivre en harmonie avec les déchets humains électroniques. Ceux-ci continuent à évoluer et à engendrer de nouvelles relations avec l’écosystème. Ainsi, cette œuvre dresse un portrait d'un monde sans humains où la nature continue d'évoluer sans notre présence.
 
-Presque tout le monde peut regarder cette œuvre mais la compréhension sera différente. Par exemple, un enfant aura plus tendance à garder son attention sur les lumières, les couleurs et les sons, mais un adulte aura plus de facilité a comprendre l'œuvre de manière plus profonde ou de faire ses propres interprétations.
-
-
-
-
-Les appareils électroniques obsolètes trouvés dans divers endroits ont été numérisés à l'aide d'applications de scan 3D et importés dans Blender, un logiciel d'animation. Les créatures, créées avec un synthétiseur vidéo, sont également importées dans Blender, où elles prennent une forme tridimensionnelle. 
-
+![video inflorescences 1](https://i.vimeocdn.com/video/1672588086-5557f38…-d?mw=1920&mh=1080)
 
 
 
