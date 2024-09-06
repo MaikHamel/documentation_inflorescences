@@ -38,7 +38,7 @@ La version "container" a été diffusé à Montréal en 2024, mais la première 
 </br>
 </br>
 ### Version "Container" (2024, Mutek, Montréal, Canada)
-![simulation container 1](https://_inflorescence.gitlab.io/mutek2024/simulation/Sabrina_Ratt%C3%A9_simulation_20240627_1.jpg)
+![simulation container 1](https://_inflorescence.gitlab.io/mutek2024/simulation/Sabrina_Ratt%C3%A9_simulation_20240627_1.jpg)(https://_inflorescence.gitlab.io/mutek2024/simulation/Sabrina_Ratt%C3%A9_simulation_20240627_1.jpg)
 ![simulation container 2](https://_inflorescence.gitlab.io/mutek2024/simulation/Sabrina_Ratt%C3%A9_simulation_20240627_3.jpg)
 
 
@@ -56,7 +56,7 @@ Inflorescences a été présenté pour la première fois au festival New Now, en
 
 ## Description de l'œuvre
 
-"Inflorescences" est une oeuvre visuelle et sonore représentant un monde futur où des plantes, créatures microscopiques ou bactéries ont mutées pour vivre en harmonie avec les déchets humains, électroniques. Ceux-ci continuent à évoluer et à engendrer de nouvelles relations avec l’écosystème. Ainsi, cette œuvre dresse un portrait d'un monde sans humains où la nature continue d'évoluer sans notre présence.
+"Inflorescences" est une oeuvre visuelle et sonore représentant un monde futur où des plantes, créatures microscopiques ou bactéries ont mutées pour vivre en harmonie avec les déchets humains électroniques. Ceux-ci continuent à évoluer et à engendrer de nouvelles relations avec l’écosystème. Ainsi, cette œuvre dresse un portrait d'un monde sans humains où la nature continue d'évoluer sans notre présence.
 
 Presque tout le monde peut regarder cette œuvre mais la compréhension sera différente. Par exemple, un enfant aura plus tendance à garder son attention sur les lumières, les couleurs et les sons, mais un adulte aura plus de facilité a comprendre l'œuvre de manière plus profonde ou de faire ses propres interprétations.
 
