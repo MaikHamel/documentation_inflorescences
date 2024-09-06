@@ -47,7 +47,7 @@ La version "container" a été diffusé à Montréal en 2024, mais la première 
 ## Contexte de présentation
 
 
-Inflorescences a été présenté pour la première fois au festival New Now, en Allemagne. Une deuxième édition de l'œuvre, présenté a Montréal pour le 25E anniversaire du festival de musique électronique, Mutek. </br>
+Inflorescences a été présenté pour la première fois au festival New Now, en Allemagne. Une deuxième édition de l'œuvre, présenté a Montréal pour le 25E anniversaire du festival de musique électronique, Mutek. </br> </br>
 ![festival Mutek](https://medias.mutek.org/montreal/_1200x630_crop_center-center_82_none/ThumbnailORG.png?mtime=1710174308)
 
 
