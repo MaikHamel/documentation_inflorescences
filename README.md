@@ -1,6 +1,9 @@
 
 
-# Présentation d'une oeuvre numérique par Maïk hamel
+
+
+
+# Présentation d'une oeuvre numérique par Maïk Hamel
 
 
 
@@ -40,9 +43,18 @@ Presque tout le monde peut regarder cette œuvre mais la compréhension sera dif
 
 
 
+Les appareils électroniques obsolètes trouvés dans divers endroits ont été numérisés à l'aide d'applications de scan 3D et importés dans Blender, un logiciel d'animation. Les créatures, créées avec un synthétiseur vidéo, sont également importées dans Blender, où elles prennent une forme tridimensionnelle. 
 
-  
-Les appareils électroniques obsolètes trouvés dans divers endroits ont été numérisés à l'aide d'applications de scan 3D et importés dans Blender, un logiciel d'animation. Les créatures, créées avec un synthétiseur vidéo, sont également importées dans Blender, où elles prennent une forme tridimensionnelle. Cette approche permet l'émergence de formes organiques et imprévisibles ressemblant à des mutations florales ou fongiques. Ces extrusions semblent émerger de l'objet, empruntant parfois ses couleurs, textures ou matériaux, devenant ainsi une extension vivante de ces déchets. "
+
+
+
+
+## Composante central
+
+L'élément centrale clé qui caractérise cette œuvre est les 4 sculptures qui représentent les appareils électroniques dans les vidéos avant que ceux-ci deviennent les habitats de ces organismes. Chaques apareils sont leur propre ordinateur ( RaberriePI) donc jouent leur video aproprié
+
+
+j'ai apprécié cet œuvre parce que j'ai bien les choses abstraites, de sons et de 3d. 
 
 
 
