@@ -29,11 +29,15 @@ Intégration multimédia: Guillaume Arseneault </br>
 
 La version "container" a été diffusé à Montréal en 2024, mais la première version de cet œuvre à été exposé en Allemagne en 2023. 
 
-Premiere exposition (2023, New Now, Essen, Allemagne) </br>
+### Premiere exposition (2023, New Now, Essen, Allemagne) </br>
 ![exposition New Now 1](https://_inflorescence.gitlab.io/mutek2024/annexes/venues/media/Zollverein_3.jpeg)
 ![exposition New Now 2](https://_inflorescence.gitlab.io/mutek2024/annexes/venues/media/Zollverein_2.jpeg)
-
-Version "Container" (2024, Mutek, Montréal, Canada)</br>
+</br>
+</br>
+</br>
+### Version "Container" (2024, Mutek, Montréal, Canada)
+</br>
+</br>
 ![simulation container 1](https://_inflorescence.gitlab.io/mutek2024/simulation/Sabrina_Ratt%C3%A9_simulation_20240627_1.jpg)
 ![simulation container 2](https://_inflorescence.gitlab.io/mutek2024/simulation/Sabrina_Ratt%C3%A9_simulation_20240627_3.jpg)
 
