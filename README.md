@@ -60,12 +60,13 @@ Inflorescences a été présenté pour la première fois au festival New Now, en
 
 ![Screenshot 2024-09-06 190816](https://github.com/user-attachments/assets/48c740b9-fe92-4b04-8749-5798e763c75f)
 
-
-![Capture d’écran_6-9-2024_193942_vimeo com](https://github.com/user-attachments/assets/ed0f6968-8c82-4d01-9b24-ced307b69b02)
-
+![Capture d’écran_6-9-2024_194437_vimeo com](https://github.com/user-attachments/assets/e323f575-3b1f-4e02-9a92-c162983372ee)
 
 
-![Capture d’écran_6-9-2024_194221_vimeo com](https://github.com/user-attachments/assets/1066b903-90ec-44cd-ba9a-026e11e22275)
+![Capture d’écran_6-9-2024_194529_vimeo com](https://github.com/user-attachments/assets/e1161727-0736-426d-85a4-b9ab67192b28)
+
+
+
 
 ![Capture d’écran_6-9-2024_194316_vimeo com](https://github.com/user-attachments/assets/93fa72d8-78e8-411e-96a2-5bade7cb3313)
 
