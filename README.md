@@ -28,7 +28,7 @@ Intégration multimédia: Guillaume Arseneault
 ## Création
 
 Version exposition (2023, New Now, Essen, Allemagne)
-
+![exposition New Now](https://_inflorescence.gitlab.io/mutek2024/annexes/venues/media/Zollverein_3.jpeg)
 
 Version "Container" (2024, Mutek, Montréal, Canada)
 
