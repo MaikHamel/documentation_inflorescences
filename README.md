@@ -36,8 +36,6 @@ La version "container" a été diffusé à Montréal en 2024, mais la première 
 </br>
 </br>
 ### Version "Container" (2024, Mutek, Montréal, Canada)
-</br>
-</br>
 ![simulation container 1](https://_inflorescence.gitlab.io/mutek2024/simulation/Sabrina_Ratt%C3%A9_simulation_20240627_1.jpg)
 ![simulation container 2](https://_inflorescence.gitlab.io/mutek2024/simulation/Sabrina_Ratt%C3%A9_simulation_20240627_3.jpg)
 
