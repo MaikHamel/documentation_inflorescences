@@ -18,9 +18,9 @@
 
 ## Auteurs
 
-Auteur: Sabrina Raté
-Composition sonore: Roger Tellier Craig
-Intégration multimédia: Guillaume Arseneault
+Auteur: Sabrina Raté </br>
+Composition sonore: Roger Tellier Craig </br>
+Intégration multimédia: Guillaume Arseneault </br>
 
 
 
