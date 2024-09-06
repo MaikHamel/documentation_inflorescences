@@ -38,7 +38,7 @@ La version "container" a été diffusé à Montréal en 2024, mais la première 
 </br>
 </br>
 ### Version "Container" (2024, Mutek, Montréal, Canada)
-![simulation container 1](https://_inflorescence.gitlab.io/mutek2024/simulation/Sabrina_Ratt%C3%A9_simulation_20240627_1.jpg)(https://_inflorescence.gitlab.io/mutek2024/simulation/Sabrina_Ratt%C3%A9_simulation_20240627_1.jpg)
+![simulation container 1](https://_inflorescence.gitlab.io/mutek2024/simulation/Sabrina_Ratt%C3%A9_simulation_20240627_1.jpg)
 ![simulation container 2](https://_inflorescence.gitlab.io/mutek2024/simulation/Sabrina_Ratt%C3%A9_simulation_20240627_3.jpg)
 
 
@@ -48,7 +48,7 @@ La version "container" a été diffusé à Montréal en 2024, mais la première 
 
 
 Inflorescences a été présenté pour la première fois au festival New Now, en Allemagne. Une deuxième édition de l'œuvre, présenté a Montréal pour le 25E anniversaire du festival de musique électronique, Mutek. </br> </br>
-![festival Mutek](https://medias.mutek.org/montreal/_1200x630_crop_center-center_82_none/ThumbnailORG.png?mtime=1710174308)
+![festival Mutek](https://medias.mutek.org/montreal/_1200x630_crop_center-center_82_none/ThumbnailORG.png?mtime=1710174308)(https://medias.mutek.org/montreal/_1200x630_crop_center-center_82_none/ThumbnailORG.png?mtime=1710174308)
 
 
 
