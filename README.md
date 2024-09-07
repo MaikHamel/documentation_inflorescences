@@ -78,8 +78,9 @@ Inflorescences a été présenté pour la première fois au festival New Now, en
 ![sculpture 3](https://_inflorescence.gitlab.io/mutek2024/annexes/venues/media/sculpture_3_computer.jpeg)
 ![sculpture 4](https://_inflorescence.gitlab.io/mutek2024/annexes/venues/media/sculpture_4_vcr.jpeg)
 
+## Apréciation
 
-j'ai apprécié cet œuvre parce que j'ai bien les choses abstraites, de sons et de 3d. 
+J'ai choisi cet oeuvre parce que j'ai bien aimé l'ambiance général de l'oeuvre: calme et étrange
 
 
 
