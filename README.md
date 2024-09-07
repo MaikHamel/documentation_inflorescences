@@ -72,10 +72,11 @@ Inflorescences a été présenté pour la première fois au festival New Now, en
 
 ## Composante central
 
-### Sculptures
-</br>
-</br>
+### Sculptures </br> </br>
 ![sculpture 1](https://_inflorescence.gitlab.io/mutek2024/annexes/venues/media/sculpture_1_crt_television.jpeg)
+![sculpture 2](https://_inflorescence.gitlab.io/mutek2024/annexes/venues/media/sculpture_2_amplifier.jpeg)
+![sculpture 3](https://_inflorescence.gitlab.io/mutek2024/annexes/venues/media/sculpture_3_computer.jpeg)
+![sculpture 4](https://_inflorescence.gitlab.io/mutek2024/annexes/venues/media/sculpture_4_vcr.jpeg)
 
 
 j'ai apprécié cet œuvre parce que j'ai bien les choses abstraites, de sons et de 3d. 
