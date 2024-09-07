@@ -80,7 +80,7 @@ Inflorescences a été présenté pour la première fois au festival New Now, en
 
 ## Apréciation
 
-J'ai choisi cet oeuvre parce que j'ai bien aimé l'ambiance général de l'oeuvre: calme et étrange
+J'ai choisi cet oeuvre parce que j'ai bien aimé l'ambiance général de l'oeuvre: étrange mais apaisante.
 
 
 
