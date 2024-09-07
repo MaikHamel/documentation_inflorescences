@@ -66,14 +66,16 @@ Inflorescences a été présenté pour la première fois au festival New Now, en
 [![inflorescences III](https://github.com/user-attachments/assets/e1161727-0736-426d-85a4-b9ab67192b28)](https://vimeo.com/828629317)
 
 
-
 [![inflorescences IV](https://github.com/user-attachments/assets/93fa72d8-78e8-411e-96a2-5bade7cb3313)](https://vimeo.com/833466964)
 
 
 
 ## Composante central
 
-L'élément centrale clé qui caractérise cette œuvre est les 4 sculptures qui représentent les appareils électroniques dans les vidéos avant que ceux-ci deviennent les habitats de ces organismes. Chaques apareils sont leur propre ordinateur ( RaberriePI) donc jouent leur video aproprié
+### Sculptures
+</br>
+</br>
+![sculpture 1](https://_inflorescence.gitlab.io/mutek2024/annexes/venues/media/sculpture_1_crt_television.jpeg)
 
 
 j'ai apprécié cet œuvre parce que j'ai bien les choses abstraites, de sons et de 3d. 
