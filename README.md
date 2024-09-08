@@ -23,6 +23,11 @@ Auteur: Sabrina Raté </br>
 Composition sonore: Roger Tellier Craig </br>
 Intégration multimédia: Guillaume Arseneault </br>
 
+<p float="left">
+  <img src="https://medias.mutek.org/transforms/artists/382644/Sabrina-Ratte%CC%81-Guillaume-Arsenault_b23fdf208511eaca9b37cbcddcab0d04_b23fdf208511eaca9b37cbcddcab0d04.webp" width="650" height="550" />
+  <img src="https://codesdacces.org/wp-content/uploads/2019/10/artphoto_rogertelliercraig.jpg" width="650" /> 
+</p>
+
 </br>
 
 
