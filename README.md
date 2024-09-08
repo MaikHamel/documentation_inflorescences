@@ -79,6 +79,8 @@ Inflorescences a été présenté pour la première fois au festival New Now, en
 
 
 
+
+
 ## Composante central
 
 ### Sculptures </br> </br>
@@ -89,7 +91,7 @@ Inflorescences a été présenté pour la première fois au festival New Now, en
 
 ## Apréciation
 
-J'ai choisi cet oeuvre parce que j'ai bien aimé l'ambiance général de l'oeuvre: étrange mais apaisante.
+J'ai choisi cet oeuvre parce que j'ai bien aimé l'ambiance général de l'oeuvre: étrange mais apaisante. J'ai aussi choisi cette oeuvre parce que l'oeuvre ma aussi fait penser au fait que la nature se régénère et évolue sans la présence de l'humain. 
 
 
 
