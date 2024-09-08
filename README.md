@@ -65,7 +65,7 @@ Inflorescences a été présenté pour la première fois au festival New Now, en
 
 </br></br>
 
-"Inflorescences" est une oeuvre visuelle et sonore représentant un monde futur où des plantes, créatures microscopiques ou bactéries ont mutées pour vivre en harmonie avec les déchets humains électroniques. Ceux-ci continuent à évoluer et à engendrer de nouvelles relations avec l’écosystème. Ainsi, cette œuvre dresse un portrait d'un monde sans humains où la nature continue d'évoluer sans notre présence. </br></br></br>
+"Inflorescences" est une oeuvre visuelle et sonore représentant un monde futur où des plantes, créatures microscopiques ou bactéries ont mutées pour vivre en harmonie avec les déchets électroniques. Ceux-ci continuent à évoluer et à engendrer de nouvelles relations avec l’écosystème. Ainsi, cette œuvre dresse un portrait d'un monde sans humains où la nature continue d'évoluer sans notre présence. </br></br></br>
 
 [![inflorescences I](https://github.com/user-attachments/assets/48c740b9-fe92-4b04-8749-5798e763c75f)](https://vimeo.com/828618807)
 
