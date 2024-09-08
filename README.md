@@ -19,12 +19,15 @@
 
 ## Auteurs
 
+
+![Sabrina Ratté et Guillaume Arseneault](https://medias.mutek.org/transforms/artists/382644/Sabrina-Ratte%CC%81-Guillaume-Arsenault_b23fdf208511eaca9b37cbcddcab0d04_b23fdf208511eaca9b37cbcddcab0d04.webp)
+![Roger Tellier Craig](https://codesdacces.org/wp-content/uploads/2019/10/artphoto_rogertelliercraig.jpg)
+
+
 Auteur: Sabrina Raté </br>
 Composition sonore: Roger Tellier Craig </br>
 Intégration multimédia: Guillaume Arseneault </br>
 
-![Sabrina Ratté et Guillaume Arseneault](https://medias.mutek.org/transforms/artists/382644/Sabrina-Ratte%CC%81-Guillaume-Arsenault_b23fdf208511eaca9b37cbcddcab0d04_b23fdf208511eaca9b37cbcddcab0d04.webp)
-![Roger Tellier Craig](https://codesdacces.org/wp-content/uploads/2019/10/artphoto_rogertelliercraig.jpg)
 
 </br>
 
